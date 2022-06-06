@@ -1,0 +1,21 @@
+{
+    "name": "kimetsu-no-yaiba",
+    "displayName": "kimetsu_no_yaiba",
+    "description": "un petit thème sur l'univers de kimetsu no yaiba créé par moi-même et uniquement moi-même",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kimetsu No Yaiba theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kimetsu No Yaiba theme-color-theme.json"
+            }
+        ]
+    }
+}
