@@ -23,4 +23,8 @@ Kimetsu no Yaiba Theme
 ## Vous pouvez modifier ce thème comme bon vous semble, ##
 ### il a été créé pour le fun et pour m'amuser, cependant si vous l'aimez tant mieux. ###
 
->>> Vous pouvez contribuer au projet sur ce dépôt GitHub: [Coucou c'est moi]()
+> Vous pouvez contribuer au projet sur ce dépôt GitHub: [Coucou c'est moi](https://github.com/PxndxDev/KnyVscodeTheme)
+
+----
+*Créé par Pandawou, ID Discord: ぱんだ#0462*
+*Dernière modification: 06/06/2022 20h30*
