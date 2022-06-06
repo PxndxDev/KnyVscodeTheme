@@ -1,10 +1,19 @@
 {
     "name": "kimetsu-no-yaiba",
-    "displayName": "kimetsu_no_yaiba",
+    "displayName": "Kimetsu no Yaiba theme",
     "description": "un petit thème sur l'univers de kimetsu no yaiba créé par moi-même et uniquement moi-même",
+    "publisher": "pandawou",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
+    },
+    "icon": "icons/kny.png",
+    "author": {
+        "name": "Pandawou"
+    },
+    "repository": {
+        "url": "https://github.com/PxndxDev/kimetsu-no-yaiba.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
@@ -13,7 +22,7 @@
         "themes": [
             {
                 "label": "Kimetsu No Yaiba theme",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/Kimetsu No Yaiba theme-color-theme.json"
             }
         ]
