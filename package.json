@@ -1,6 +1,6 @@
 {
-    "name": "kny-theme",
-    "displayName": "Kimetsu no Yaiba theme",
+    "name": "knyvscodetheme",
+    "displayName": "KnyVscodeTheme",
     "description": "un petit thème sur l'univers de kimetsu no yaiba créé par moi-même et uniquement moi-même",
     "publisher": "kny-theme",
     "version": "0.0.1",
@@ -12,7 +12,7 @@
         "name": "Pandawou"
     },
     "repository": {
-        "url": "https://github.com/PxndxDev/kimetsu-no-yaiba.git",
+        "url": "https://github.com/PxndxDev/KnyVscodeTheme",
         "type": "git"
     },
     "categories": [
@@ -21,9 +21,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kimetsu No Yaiba theme",
+                "label": "Kimetsu No Yaiba Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kimetsu No Yaiba theme-color-theme.json"
+                "path": "./themes/KnyVscodeTheme.json"
             }
         ]
     }
