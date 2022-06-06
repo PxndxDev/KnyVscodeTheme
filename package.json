@@ -22,7 +22,7 @@
         "themes": [
             {
                 "label": "Kimetsu No Yaiba theme",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/Kimetsu No Yaiba theme-color-theme.json"
             }
         ]
