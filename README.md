@@ -1,4 +1,4 @@
-Kimetsu no Yaiba Theme
+Kimetsu no Yaiba Theme ([KnyVscodeTheme](https://marketplace.visualstudio.com/items?itemName=kny-theme.knyvscodetheme))
 ======
 
 ### Voici un premier thème que j'ai créé avec des couleurs faisant penser à celles du kimono de Shinobu Kocho, personnage important de l'univers Kimetsu no Yaiba *(œuvre originale de Koyoharu Gotouge).* ###
@@ -28,3 +28,4 @@ Kimetsu no Yaiba Theme
 ----
 *Créé par Pandawou, ID Discord: ぱんだ#0462*
 *Dernière modification: 06/06/2022 20h30*
+*Lien sur le marketplace: [KnyVscodeTheme](https://marketplace.visualstudio.com/items?itemName=kny-theme.knyvscodetheme)*
